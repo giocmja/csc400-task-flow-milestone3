@@ -120,7 +120,7 @@ function App() {
         onCancel={handleCancelEdit}
       />
 
-      <h2>Tasks</h2>
+      <h2>My Tasks</h2>
       <TaskList
         tasks={tasks}
         onEdit={handleEdit}
